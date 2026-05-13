@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fishyguysalmoon.aternos.me",  
-    "port": 52946,
+    "ip": "fishyguysalmoon.aternos.me:61547",  
+    "port": 61547,
     "version": "",
     "try-creative": false
   },
